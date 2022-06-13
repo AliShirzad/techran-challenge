@@ -1,0 +1,17 @@
+.wrapper {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.nav {
+    display: flex;
+    padding: 0 20px;
+    margin-top: 10px;
+}
+
+.nav > a {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;    
+}
